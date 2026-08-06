@@ -85,7 +85,8 @@ Aplikasi web manajemen inventaris suku cadang (sparepart) motor yang dikembangka
 
 <img src="screenshots/Screenshot 2026-07-12 213555.png" alt="Backup Database SQL" width="100%"/>
 
----
+<img width="747" height="417" alt="image" src="https://github.com/user-attachments/assets/26d8b52e-e72b-40e3-94c8-49560200d313" />
+
 
 ## 💻 Panduan Instalasi Lokal
 
