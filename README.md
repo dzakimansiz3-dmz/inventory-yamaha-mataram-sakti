@@ -50,9 +50,8 @@ Aplikasi web manajemen inventaris suku cadang (sparepart) motor yang dikembangka
 ---
 
 ### 3. Pengelolaan Data Sparepart (CRUD)
-<img src="screenshots/Screenshot 2026-07-10 230715.png" alt="Data Sparepart" width="100%"/>
+<img width="949" height="501" alt="image" src="https://github.com/user-attachments/assets/e16196f1-1051-4c69-8649-39ef842e6322" />
 
----
 
 ### 4. Transaksi Barang Masuk & Keluar
 <img src="screenshots/Screenshot 2026-07-11 000840.png" alt="Barang Masuk" width="100%"/>
