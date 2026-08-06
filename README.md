@@ -64,7 +64,20 @@ Aplikasi web manajemen inventaris suku cadang (sparepart) motor yang dikembangka
 ---
 
 ### 6. Pengujian Query SQL Lanjut (phpMyAdmin)
-<img width="804" height="390" alt="image" src="https://github.com/user-attachments/assets/2367aeb4-83db-447e-9def-a688c2857e59" />
+#### 1. INNER JOIN (Menggabungkan Data Sparepart dengan Transaksi Barang Masuk)
+<img width="804" height="390" alt="image" src="https://github.com/user-attachments/assets/22be9c73-1e7f-4f3c-b1b7-12343157f073" />
+
+
+#### 2. LEFT JOIN (Menampilkan Seluruh Sparepart Meskipun Belum Ada Transaksi)
+<img width="803" height="390" alt="image" src="https://github.com/user-attachments/assets/b2df3e47-d834-4dfb-bf33-df2a87e0fecf" />
+
+
+#### 3. RIGHT JOIN (Menampilkan Seluruh Data Transaksi dari Tabel Kanan)
+<img width="747" height="378" alt="image" src="https://github.com/user-attachments/assets/47f6edb6-4ac4-4877-b890-2ea7ad8c4374" />
+
+
+#### 4. FULL OUTER JOIN (Kombinasi LEFT JOIN + RIGHT JOIN + UNION)
+<img width="749" height="401" alt="image" src="https://github.com/user-attachments/assets/fd7c19bc-44d0-454b-be17-bd25ef2f8733" />
 
 
 ### 7. Pengujian Hak Akses Owner & Modul Backup Database
