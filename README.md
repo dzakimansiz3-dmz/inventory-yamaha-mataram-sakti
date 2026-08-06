@@ -64,11 +64,8 @@ Aplikasi web manajemen inventaris suku cadang (sparepart) motor yang dikembangka
 ---
 
 ### 6. Pengujian Query SQL Lanjut (phpMyAdmin)
-<img src="screenshots/Screenshot 2026-07-12 190634.png" alt="Query SQL INNER JOIN" width="100%"/>
+<img width="804" height="390" alt="image" src="https://github.com/user-attachments/assets/2367aeb4-83db-447e-9def-a688c2857e59" />
 
-<img src="screenshots/Screenshot 2026-07-12 191106.png" alt="Query SQL LEFT JOIN" width="100%"/>
-
----
 
 ### 7. Pengujian Hak Akses Owner & Modul Backup Database
 <img src="screenshots/Screenshot 2026-07-12 195240.png" alt="Dashboard Owner" width="100%"/>
