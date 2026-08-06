@@ -54,9 +54,10 @@ Aplikasi web manajemen inventaris suku cadang (sparepart) motor yang dikembangka
 
 
 ### 4. Transaksi Barang Masuk & Keluar
-<img src="screenshots/Screenshot 2026-07-11 000840.png" alt="Barang Masuk" width="100%"/>
+<img width="1917" height="1070" alt="Screenshot 2026-07-10 230214" src="https://github.com/user-attachments/assets/f1bd5edb-3089-419b-9010-2f7590f4c049" /> 
+<img width="1919" height="1004" alt="Screenshot 2026-07-10 230715" src="https://github.com/user-attachments/assets/da163cfa-00c0-47a9-886f-66cb0e1d7c36" />
 
----
+
 
 ### 5. Peringatan Fitur Stok Kritis & Transaksi Real-time
 <img src="screenshots/Screenshot 2026-07-11 001001.png" alt="Stok Kritis" width="100%"/>
