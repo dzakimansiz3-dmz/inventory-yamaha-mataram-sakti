@@ -41,7 +41,7 @@ Aplikasi web manajemen inventaris suku cadang (sparepart) motor yang dikembangka
 
 ### 1. Halaman Login & Otentikasi
 <img src="https://github.com/user-attachments/assets/aa9bac5d-3cd0-49f8-ba3f-36bde6fe5e38" width="100%" alt="Screenshot Barang Masuk" />
----
+
 
 ### 2. Dashboard Monitoring & Grafik Analytics
 <img width="1919" height="1009" alt="Screenshot 2026-07-12 213555" src="https://github.com/user-attachments/assets/e3466d3a-87ee-4b1d-8510-957c86c159ef" />
